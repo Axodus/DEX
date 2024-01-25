@@ -3,6 +3,7 @@
 export const colors = {
   white: '#FFFFFF',
   black: '#000000',
+  customDark: '#1F2933',
   gray50: '#F5F6FC',
   gray100: '#E8ECFB',
   gray150: '#D2D9EE',
@@ -120,14 +121,14 @@ export const colors = {
   accent2_light: '#FFEFFF',
   success: '#40B66B',
   critical: '#FF5F52',
-  scrim: 'rgba(31, 41, 51, 1)',
+  scrim: 'rgba(0, 0, 0, 1)',
 }
 
 type Theme = typeof darkTheme
 
 const commonTheme = {
   white: colors.white,
-  black: colors.scrim,
+  black: colors.customDark,
 
   chain_1: colors.networkEthereum,
   chain_3: colors.yellow400,
@@ -157,7 +158,7 @@ const commonTheme = {
 export const darkTheme = {
   ...commonTheme,
 
-  background: colors.scrim,
+  background: colors.customDark,
 
   neutral1: colors.neutral1_dark,
   neutral2: colors.neutral2_dark,
