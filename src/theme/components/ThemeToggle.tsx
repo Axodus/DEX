@@ -54,7 +54,7 @@ export function ThemeColorMetaUpdater() {
 
     if (isDark) {
       // this color comes from #background-radial-gradient
-      meta.setAttribute('content', 'rgb(19, 19, 19)')
+      meta.setAttribute('content', 'rgba(31, 41, 51, 1)')
     } else {
       meta.setAttribute('content', '#fff')
     }
