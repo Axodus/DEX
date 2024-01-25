@@ -120,14 +120,14 @@ export const colors = {
   accent2_light: '#FFEFFF',
   success: '#40B66B',
   critical: '#FF5F52',
-  scrim: 'rgba(0, 0, 0, 0.60)',
+  scrim: 'rgba(31, 41, 51, 1)',
 }
 
 type Theme = typeof darkTheme
 
 const commonTheme = {
   white: colors.white,
-  black: colors.black,
+  black: colors.scrim,
 
   chain_1: colors.networkEthereum,
   chain_3: colors.yellow400,
@@ -157,7 +157,7 @@ const commonTheme = {
 export const darkTheme = {
   ...commonTheme,
 
-  background: colors.black,
+  background: colors.scrim,
 
   neutral1: colors.neutral1_dark,
   neutral2: colors.neutral2_dark,
