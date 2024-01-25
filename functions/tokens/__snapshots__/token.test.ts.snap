@@ -40,10 +40,10 @@ exports[`should inject metadata for valid tokens 1`] = `
     <link rel="preconnect" href="https://api.uniswap.org/" crossorigin/>
     <link rel="preconnect" href="https://mainnet.infura.io/" crossorigin/>
 
-    <link rel="preload" href="/fonts/Basel-Book.woff" as="font" type="font/woff" crossorigin />
-    <link rel="preload" href="/fonts/Basel-Book.woff2" as="font" type="font/woff2" crossorigin />
-    <link rel="preload" href="/fonts/Basel-Medium.woff" as="font" type="font/woff" crossorigin />
-    <link rel="preload" href="/fonts/Basel-Medium.woff2" as="font" type="font/woff2" crossorigin />
+    <link rel="preload" href="/fonts/Ubuntu-Light.woff" as="font" type="font/woff" crossorigin />
+    <link rel="preload" href="/fonts/Ubuntu-Light.woff2" as="font" type="font/woff2" crossorigin />
+    <link rel="preload" href="/fonts/Ubuntu-Medium.woff" as="font" type="font/woff" crossorigin />
+    <link rel="preload" href="/fonts/Ubuntu-Medium.woff2" as="font" type="font/woff2" crossorigin />
    
     <style>
       * {
@@ -60,8 +60,8 @@ exports[`should inject metadata for valid tokens 1`] = `
         font-style: normal;
         font-display: block;
         src: 
-          url('/fonts/Basel-Medium.woff2') format('woff2'),
-          url('/fonts/Basel-Medium.woff') format('woff');
+          url('/fonts/Ubuntu-Medium.woff2') format('woff2'),
+          url('/fonts/Ubuntu-Medium.woff') format('woff');
       }
 
       @font-face {
@@ -70,8 +70,8 @@ exports[`should inject metadata for valid tokens 1`] = `
         font-style: normal;
         font-display: block;
         src: 
-          url('/fonts/Basel-Book.woff') format('woff2'),
-          url('/fonts/Basel-Book.woff') format('woff');
+          url('/fonts/Ubuntu-Light.woff') format('woff2'),
+          url('/fonts/Ubuntu-Light.woff') format('woff');
       }
 
       @supports (font-variation-settings: normal) {
@@ -188,10 +188,10 @@ exports[`should inject metadata for valid tokens 2`] = `
     <link rel="preconnect" href="https://api.uniswap.org/" crossorigin/>
     <link rel="preconnect" href="https://mainnet.infura.io/" crossorigin/>
 
-    <link rel="preload" href="/fonts/Basel-Book.woff" as="font" type="font/woff" crossorigin />
-    <link rel="preload" href="/fonts/Basel-Book.woff2" as="font" type="font/woff2" crossorigin />
-    <link rel="preload" href="/fonts/Basel-Medium.woff" as="font" type="font/woff" crossorigin />
-    <link rel="preload" href="/fonts/Basel-Medium.woff2" as="font" type="font/woff2" crossorigin />
+    <link rel="preload" href="/fonts/Ubuntu-Light.woff" as="font" type="font/woff" crossorigin />
+    <link rel="preload" href="/fonts/Ubuntu-Light.woff2" as="font" type="font/woff2" crossorigin />
+    <link rel="preload" href="/fonts/Ubuntu-Medium.woff" as="font" type="font/woff" crossorigin />
+    <link rel="preload" href="/fonts/Ubuntu-Medium.woff2" as="font" type="font/woff2" crossorigin />
    
     <style>
       * {
@@ -208,8 +208,8 @@ exports[`should inject metadata for valid tokens 2`] = `
         font-style: normal;
         font-display: block;
         src: 
-          url('/fonts/Basel-Medium.woff2') format('woff2'),
-          url('/fonts/Basel-Medium.woff') format('woff');
+          url('/fonts/Ubuntu-Medium.woff2') format('woff2'),
+          url('/fonts/Ubuntu-Medium.woff') format('woff');
       }
 
       @font-face {
@@ -218,8 +218,8 @@ exports[`should inject metadata for valid tokens 2`] = `
         font-style: normal;
         font-display: block;
         src: 
-          url('/fonts/Basel-Book.woff') format('woff2'),
-          url('/fonts/Basel-Book.woff') format('woff');
+          url('/fonts/Ubuntu-Light.woff') format('woff2'),
+          url('/fonts/Ubuntu-Light.woff') format('woff');
       }
 
       @supports (font-variation-settings: normal) {
@@ -336,10 +336,10 @@ exports[`should inject metadata for valid tokens 3`] = `
     <link rel="preconnect" href="https://api.uniswap.org/" crossorigin/>
     <link rel="preconnect" href="https://mainnet.infura.io/" crossorigin/>
 
-    <link rel="preload" href="/fonts/Basel-Book.woff" as="font" type="font/woff" crossorigin />
-    <link rel="preload" href="/fonts/Basel-Book.woff2" as="font" type="font/woff2" crossorigin />
-    <link rel="preload" href="/fonts/Basel-Medium.woff" as="font" type="font/woff" crossorigin />
-    <link rel="preload" href="/fonts/Basel-Medium.woff2" as="font" type="font/woff2" crossorigin />
+    <link rel="preload" href="/fonts/Ubuntu-Light.woff" as="font" type="font/woff" crossorigin />
+    <link rel="preload" href="/fonts/Ubuntu-Light.woff2" as="font" type="font/woff2" crossorigin />
+    <link rel="preload" href="/fonts/Ubuntu-Medium.woff" as="font" type="font/woff" crossorigin />
+    <link rel="preload" href="/fonts/Ubuntu-Medium.woff2" as="font" type="font/woff2" crossorigin />
    
     <style>
       * {
@@ -356,8 +356,8 @@ exports[`should inject metadata for valid tokens 3`] = `
         font-style: normal;
         font-display: block;
         src: 
-          url('/fonts/Basel-Medium.woff2') format('woff2'),
-          url('/fonts/Basel-Medium.woff') format('woff');
+          url('/fonts/Ubuntu-Medium.woff2') format('woff2'),
+          url('/fonts/Ubuntu-Medium.woff') format('woff');
       }
 
       @font-face {
@@ -366,8 +366,8 @@ exports[`should inject metadata for valid tokens 3`] = `
         font-style: normal;
         font-display: block;
         src: 
-          url('/fonts/Basel-Book.woff') format('woff2'),
-          url('/fonts/Basel-Book.woff') format('woff');
+          url('/fonts/Ubuntu-Light.woff') format('woff2'),
+          url('/fonts/Ubuntu-Light.woff') format('woff');
       }
 
       @supports (font-variation-settings: normal) {
@@ -484,10 +484,10 @@ exports[`should inject metadata for valid tokens 4`] = `
     <link rel="preconnect" href="https://api.uniswap.org/" crossorigin/>
     <link rel="preconnect" href="https://mainnet.infura.io/" crossorigin/>
 
-    <link rel="preload" href="/fonts/Basel-Book.woff" as="font" type="font/woff" crossorigin />
-    <link rel="preload" href="/fonts/Basel-Book.woff2" as="font" type="font/woff2" crossorigin />
-    <link rel="preload" href="/fonts/Basel-Medium.woff" as="font" type="font/woff" crossorigin />
-    <link rel="preload" href="/fonts/Basel-Medium.woff2" as="font" type="font/woff2" crossorigin />
+    <link rel="preload" href="/fonts/Ubuntu-Light.woff" as="font" type="font/woff" crossorigin />
+    <link rel="preload" href="/fonts/Ubuntu-Light.woff2" as="font" type="font/woff2" crossorigin />
+    <link rel="preload" href="/fonts/Ubuntu-Medium.woff" as="font" type="font/woff" crossorigin />
+    <link rel="preload" href="/fonts/Ubuntu-Medium.woff2" as="font" type="font/woff2" crossorigin />
    
     <style>
       * {
@@ -504,8 +504,8 @@ exports[`should inject metadata for valid tokens 4`] = `
         font-style: normal;
         font-display: block;
         src: 
-          url('/fonts/Basel-Medium.woff2') format('woff2'),
-          url('/fonts/Basel-Medium.woff') format('woff');
+          url('/fonts/Ubuntu-Medium.woff2') format('woff2'),
+          url('/fonts/Ubuntu-Medium.woff') format('woff');
       }
 
       @font-face {
@@ -514,8 +514,8 @@ exports[`should inject metadata for valid tokens 4`] = `
         font-style: normal;
         font-display: block;
         src: 
-          url('/fonts/Basel-Book.woff') format('woff2'),
-          url('/fonts/Basel-Book.woff') format('woff');
+          url('/fonts/Ubuntu-Light.woff') format('woff2'),
+          url('/fonts/Ubuntu-Light.woff') format('woff');
       }
 
       @supports (font-variation-settings: normal) {
