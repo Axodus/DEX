@@ -29,7 +29,7 @@ function getErrorContent(errorType: PendingModalError) {
         label: <Trans>Why are approvals required?</Trans>,
         tooltipText: (
           <Trans>
-            This provides the Uniswap protocol access to your token for trading. For security, this will expire after 30
+            This provides the Axodus protocol access to your token for trading. For security, this will expire after 30
             days.
           </Trans>
         ),

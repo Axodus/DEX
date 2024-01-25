@@ -13,8 +13,8 @@ describe('Token details', () => {
     cy.viewport(1440, 900)
   })
 
-  it('Uniswap token should have all information populated', () => {
-    // Uniswap token
+  it('Axodus token should have all information populated', () => {
+    // Axodus token
     cy.visit(`/tokens/ethereum/${UNI_ADDRESS}`, {
       featureFlags: [{ name: FeatureFlag.infoTDP, value: false }],
     })
@@ -49,8 +49,8 @@ describe('Token details', () => {
     cy.contains(UNI_ADDRESS).should('exist')
   })
 
-  it('Uniswap token should have correct stats boxes if infoTDP flag on', () => {
-    // Uniswap token
+  it('Axodus token should have correct stats boxes if infoTDP flag on', () => {
+    // Axodus token
     cy.visit(`/tokens/ethereum/${UNI_ADDRESS}`, {
       featureFlags: [{ name: FeatureFlag.infoTDP, value: true }],
     })

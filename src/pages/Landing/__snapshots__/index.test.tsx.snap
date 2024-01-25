@@ -2169,7 +2169,7 @@ exports[`disable nft on landing page does not render nft information and card 1`
         >
           uniswap_app_logo.svg
         </svg>
-        Download the Uniswap app
+        Download the Axodus app
       </a>
     </div>
     <div
@@ -2281,7 +2281,7 @@ exports[`disable nft on landing page does not render nft information and card 1`
             class="c74"
             type="Secondary"
           >
-            Provide liquidity to pools on Uniswap and earn fees on swaps.
+            Provide liquidity to pools on Axodus and earn fees on swaps.
             <div
               class="c74 c71"
               type="Secondary"
@@ -2349,7 +2349,7 @@ exports[`disable nft on landing page does not render nft information and card 1`
           <div
             class="c78"
           >
-            Powered by the Uniswap Protocol
+            Powered by the Axodus Protocol
           </div>
           <div
             class="c79"
@@ -2378,7 +2378,7 @@ exports[`disable nft on landing page does not render nft information and card 1`
           class="c85 c86"
         >
           <img
-            alt="Uniswap Logo"
+            alt="Axodus Logo"
             class="c87"
             src="unicornEmbossLight.png"
           />
@@ -2430,7 +2430,7 @@ exports[`disable nft on landing page does not render nft information and card 1`
           >
             © 
             2023
-             Uniswap Labs
+             Axodus Labs
           </span>
         </div>
         <div
@@ -2551,7 +2551,7 @@ exports[`disable nft on landing page does not render nft information and card 1`
           class="c85 c101"
         >
           <img
-            alt="Uniswap Logo"
+            alt="Axodus Logo"
             class="c87"
             src="unicornEmbossLight.png"
           />
@@ -2603,7 +2603,7 @@ exports[`disable nft on landing page does not render nft information and card 1`
           >
             © 
             2023
-             Uniswap Labs
+             Axodus Labs
           </span>
         </div>
       </div>
@@ -4825,7 +4825,7 @@ exports[`disable nft on landing page renders nft information and card 1`] = `
         >
           uniswap_app_logo.svg
         </svg>
-        Download the Uniswap app
+        Download the Axodus app
       </a>
     </div>
     <div
@@ -4963,7 +4963,7 @@ exports[`disable nft on landing page renders nft information and card 1`] = `
             class="c75"
             type="Secondary"
           >
-            Provide liquidity to pools on Uniswap and earn fees on swaps.
+            Provide liquidity to pools on Axodus and earn fees on swaps.
             <div
               class="c75 c71"
               type="Secondary"
@@ -5031,7 +5031,7 @@ exports[`disable nft on landing page renders nft information and card 1`] = `
           <div
             class="c79"
           >
-            Powered by the Uniswap Protocol
+            Powered by the Axodus Protocol
           </div>
           <div
             class="c80"
@@ -5060,7 +5060,7 @@ exports[`disable nft on landing page renders nft information and card 1`] = `
           class="c86 c87"
         >
           <img
-            alt="Uniswap Logo"
+            alt="Axodus Logo"
             class="c88"
             src="unicornEmbossLight.png"
           />
@@ -5112,7 +5112,7 @@ exports[`disable nft on landing page renders nft information and card 1`] = `
           >
             © 
             2023
-             Uniswap Labs
+             Axodus Labs
           </span>
         </div>
         <div
@@ -5239,7 +5239,7 @@ exports[`disable nft on landing page renders nft information and card 1`] = `
           class="c86 c102"
         >
           <img
-            alt="Uniswap Logo"
+            alt="Axodus Logo"
             class="c88"
             src="unicornEmbossLight.png"
           />
@@ -5291,7 +5291,7 @@ exports[`disable nft on landing page renders nft information and card 1`] = `
           >
             © 
             2023
-             Uniswap Labs
+             Axodus Labs
           </span>
         </div>
       </div>

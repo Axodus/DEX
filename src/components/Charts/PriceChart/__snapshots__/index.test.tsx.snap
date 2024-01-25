@@ -371,7 +371,7 @@ exports[`PriceChart renders correctly with empty price array 1`] = `
     <div
       class="c1 css-142zc9n"
     >
-      Missing price data due to recently low trading volume on Uniswap v3
+      Missing price data due to recently low trading volume on Axodus v3
     </div>
   </div>
   <svg

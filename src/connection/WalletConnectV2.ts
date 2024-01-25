@@ -63,9 +63,9 @@ export class WalletConnectV2 extends WalletConnect {
   }
 }
 
-// Custom class for Uniswap Wallet specific functionality
+// Custom class for Axodus Wallet specific functionality
 export class UniwalletConnect extends WalletConnectV2 {
-  ANALYTICS_EVENT = 'Uniswap Wallet QR Scan'
+  ANALYTICS_EVENT = 'Axodus Wallet QR Scan'
   static UNI_URI_AVAILABLE = 'uni_uri_available'
 
   constructor({ actions, onError }: Omit<WalletConnectConstructorArgs, 'options'>) {
@@ -79,10 +79,10 @@ export class UniwalletConnect extends WalletConnectV2 {
     this.events.on(URI_AVAILABLE, (uri) => {
       if (!uri) return
 
-      // Emits custom wallet connect code, parseable by the Uniswap Wallet
+      // Emits custom wallet connect code, parseable by the Axodus Wallet
       this.events.emit(UniwalletConnect.UNI_URI_AVAILABLE, `https://uniswap.org/app/wc?uri=${uri}`)
 
-      // Opens deeplink to Uniswap Wallet if on iOS
+      // Opens deeplink to Axodus Wallet if on iOS
       if (isIOS || isAndroid) {
         // Using window.location.href to open the deep link ensures smooth navigation and leverages OS handling for installed apps,
         // avoiding potential popup blockers or inconsistent behavior associated with window.open

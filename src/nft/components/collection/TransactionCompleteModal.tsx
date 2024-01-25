@@ -117,7 +117,7 @@ const TxCompleteModal = () => {
                       <Trans>Complete!</Trans>
                     </h1>
                     <p className={styles.subHeading}>
-                      <Trans>Uniswap has granted your wish!</Trans>
+                      <Trans>Axodus has granted your wish!</Trans>
                     </p>
                   </Box>
                   <UploadLink onClick={shareTweet} target="_blank">
@@ -205,7 +205,7 @@ const TxCompleteModal = () => {
                       <LightningBoltIcon color="pink" />
                       <p className={styles.subtitle}>Instant Refund</p>
                       <p className={styles.interStd}>
-                        Uniswap returned{' '}
+                        Axodus returned{' '}
                         <span style={{ fontWeight: '535' }}>
                           {formatEther({
                             input: totalRefundValue.toString(),
@@ -292,7 +292,7 @@ const TxCompleteModal = () => {
                       {txState === TxStateType.Success &&
                         `Selected item${
                           nftsPurchased.length === 1 ? ' is' : 's are'
-                        } no longer available. Uniswap instantly refunded you for this incomplete transaction. `}
+                        } no longer available. Axodus instantly refunded you for this incomplete transaction. `}
                       {formatNumberOrString({ input: txFeeFiat, type: NumberType.FiatNFTToken })} was used for gas in
                       attempt to complete this transaction. For support, please visit our{' '}
                       <a href="https://discord.gg/FCfyBSbCU5">Discord</a>

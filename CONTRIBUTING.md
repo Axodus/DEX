@@ -1,6 +1,6 @@
 # Contributing
 
-Thank you for your interest in contributing to the Uniswap interface! 🦄
+Thank you for your interest in contributing to the Axodus interface! 🦄
 
 # Development
 
@@ -122,7 +122,7 @@ Start with issues with the label
 
 # Translations
 
-Uniswap uses [Crowdin](https://crowdin.com/project/uniswap-interface) for managing translations.
+Axodus uses [Crowdin](https://crowdin.com/project/uniswap-interface) for managing translations.
 [This workflow](./.github/workflows/crowdin.yaml) uploads new strings for translation to the Crowdin project whenever code using the [lingui translation macros](https://lingui.js.org/ref/macro.html) is merged into `main`.
 
 Every hour, translations are synced back down from Crowdin to the repository in [this other workflow](./.github/workflows/crowdin-sync.yaml).

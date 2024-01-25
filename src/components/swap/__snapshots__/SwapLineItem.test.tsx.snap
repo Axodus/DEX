@@ -1197,7 +1197,7 @@ exports[`SwapLineItem.tsx dutch order eth input 1`] = `
                 <div
                   class="c3 css-142zc9n"
                 >
-                  Uniswap X
+                  Axodus X
                 </div>
               </div>
             </div>
@@ -2728,7 +2728,7 @@ exports[`SwapLineItem.tsx exact input 1`] = `
             <div
               class="css-142zc9n"
             >
-              Uniswap Client
+              Axodus Client
             </div>
           </div>
         </div>
@@ -4399,7 +4399,7 @@ exports[`SwapLineItem.tsx exact input api 1`] = `
             <div
               class="css-142zc9n"
             >
-              Uniswap API
+              Axodus API
             </div>
           </div>
         </div>
@@ -6070,7 +6070,7 @@ exports[`SwapLineItem.tsx exact output 1`] = `
             <div
               class="css-142zc9n"
             >
-              Uniswap Client
+              Axodus Client
             </div>
           </div>
         </div>
@@ -6708,7 +6708,7 @@ exports[`SwapLineItem.tsx fee on buy 1`] = `
           <div
             class="c9 css-obwv3p"
           >
-            Some tokens take a fee when they are bought or sold, which is set by the token issuer. Uniswap does not receive any of these fees. 
+            Some tokens take a fee when they are bought or sold, which is set by the token issuer. Axodus does not receive any of these fees. 
             <a
               class="c10"
               href="https://support.uniswap.org/hc/en-us/articles/18673568523789-What-is-a-token-fee-"
@@ -7949,7 +7949,7 @@ exports[`SwapLineItem.tsx fee on buy 1`] = `
             <div
               class="css-142zc9n"
             >
-              Uniswap API
+              Axodus API
             </div>
           </div>
         </div>
@@ -8587,7 +8587,7 @@ exports[`SwapLineItem.tsx fee on sell 1`] = `
           <div
             class="c9 css-obwv3p"
           >
-            Some tokens take a fee when they are bought or sold, which is set by the token issuer. Uniswap does not receive any of these fees. 
+            Some tokens take a fee when they are bought or sold, which is set by the token issuer. Axodus does not receive any of these fees. 
             <a
               class="c10"
               href="https://support.uniswap.org/hc/en-us/articles/18673568523789-What-is-a-token-fee-"
@@ -9828,7 +9828,7 @@ exports[`SwapLineItem.tsx fee on sell 1`] = `
             <div
               class="css-142zc9n"
             >
-              Uniswap API
+              Axodus API
             </div>
           </div>
         </div>

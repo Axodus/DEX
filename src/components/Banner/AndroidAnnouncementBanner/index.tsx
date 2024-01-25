@@ -43,7 +43,7 @@ export default function AndroidAnnouncementBanner() {
         <Thumbnail src={isDarkMode ? darkAndroidThumbnail : lightAndroidThumbnail} alt="Android app thumbnail" />
         <TextContainer onClick={!screenSize['xs'] ? onClick : undefined}>
           <ThemedText.BodySmall lineHeight="20px">
-            <Trans>Uniswap on Android</Trans>
+            <Trans>Axodus on Android</Trans>
           </ThemedText.BodySmall>
           <ThemedText.LabelMicro>
             <Trans>Available now - download from the Google Play Store today</Trans>

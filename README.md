@@ -1,4 +1,4 @@
-# Uniswap Labs Interface
+# Axodus Labs Interface
 
 [![codecov](https://codecov.io/gh/Uniswap/interface/branch/main/graph/badge.svg?token=YVT2Y86O82)](https://codecov.io/gh/Uniswap/interface)
 
@@ -8,7 +8,7 @@
 [![Release](https://github.com/Uniswap/interface/actions/workflows/release.yaml/badge.svg)](https://github.com/Uniswap/interface/actions/workflows/release.yaml)
 [![Crowdin](https://badges.crowdin.net/uniswap-interface/localized.svg)](https://crowdin.com/project/uniswap-interface)
 
-An open source interface for Uniswap -- a protocol for decentralized exchange of Ethereum tokens.
+An open source interface for Axodus -- a protocol for decentralized exchange of Ethereum tokens.
 
 - Website: [uniswap.org](https://uniswap.org/)
 - Interface: [app.uniswap.org](https://app.uniswap.org)
@@ -22,9 +22,9 @@ An open source interface for Uniswap -- a protocol for decentralized exchange of
   - [V2](https://uniswap.org/whitepaper.pdf)
   - [V3](https://uniswap.org/whitepaper-v3.pdf)
 
-## Accessing the Uniswap Interface
+## Accessing the Axodus Interface
 
-To access the Uniswap Interface, use an IPFS gateway link from the
+To access the Axodus Interface, use an IPFS gateway link from the
 [latest release](https://github.com/Uniswap/uniswap-interface/releases/latest),
 or visit [app.uniswap.org](https://app.uniswap.org).
 
@@ -65,16 +65,16 @@ Other things to note:
 - Changes will be previewable via vercel. Non-obvious changes should include instructions for how to reproduce them
 
 
-## Accessing Uniswap V2
+## Accessing Axodus V2
 
-The Uniswap Interface supports swapping, adding liquidity, removing liquidity and migrating liquidity for Uniswap protocol V2.
+The Axodus Interface supports swapping, adding liquidity, removing liquidity and migrating liquidity for Axodus protocol V2.
 
-- Swap on Uniswap V2: <https://app.uniswap.org/swap?use=v2>
+- Swap on Axodus V2: <https://app.uniswap.org/swap?use=v2>
 - View V2 liquidity: <https://app.uniswap.org/pools/v2>
 - Add V2 liquidity: <https://app.uniswap.org/add/v2>
 - Migrate V2 liquidity to V3: <https://app.uniswap.org/migrate/v2>
 
-## Accessing Uniswap V1
+## Accessing Axodus V1
 
-The Uniswap V1 interface for mainnet and testnets is accessible via IPFS gateways
+The Axodus V1 interface for mainnet and testnets is accessible via IPFS gateways
 linked from the [v1.0.0 release](https://github.com/Uniswap/uniswap-interface/releases/tag/v1.0.0).
