@@ -12,7 +12,7 @@ export const darkTheme: Theme = {
     surface5: vars.color.surface5_dark,
     accent1: vars.color.accent1_dark,
     accent2: vars.color.accent2_dark,
-    scrim: 'rgba(0, 0, 0, 0.60)',
+    scrim: 'rgba(31, 41, 51, 1)',
 
     success: vars.color.success,
     critical: vars.color.critical,
